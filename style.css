@@ -1,0 +1,21 @@
+.box {
+    
+    text-align: justify;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+ul{
+
+    display:block;
+
+    margin:auto;
+
+    }
+#szin:hover {
+    text-decoration: underline;
+    font-weight: bold;
+
+    }
+
